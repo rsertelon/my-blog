@@ -3,4 +3,4 @@ markdown: redcarpet
 highlighter: pygments
 permalink: /:title.html
 encoding: UTF-8
-baseurl: https://romain.sertelon.fr/blog
+baseurl: https://romain.sertelon.fr/
