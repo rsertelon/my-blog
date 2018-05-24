@@ -1,0 +1,45 @@
+---
+layout: post
+title: Emploi
+---
+
+_Action ou manière d'employer quelque chose ; utilisation, usage. &mdash; [Larousse](https://www.larousse.fr/dictionnaires/francais/emploi/28956)_
+
+Aussi étrange que ce mot puisse être pour désigner ce que nous sommes (des **employés**, des outils), il occupe une place centrale dans l'organisation de notre société.
+
+L'emploi est le fait de vendre sa force de travail à un employeur, tout en se subordonnant à ce dernier. Cette phrase est courte, mais exprime, pour moi, toute la violence de l'institution de l'emploi:
+
+* Chacun possède une force de travail qu'il doit **vendre** afin d'obtenir un salaire.
+* Cette force de travail est vendue sur un **marché de l'emploi**, ce qui nous met tous en concurrence, et applique une pression forte sur les employés.
+* Lorsque l'on trouve acheteur, l'on doit s'effacer et faire ce qu'on nous demande, l'**organisation de notre travail** ne nous appartient pas, et nous ne pouvons pas **décider des orientations de l'entreprise**, cela reste le privilège de l'employeur (ou des actionnaires), **propriétaire des moyens de production**.
+
+Pour subsister donc, il faut vendre sa force de travail. Sinon, nous sommes un poids pour la société. Il est donc important d'avoir un emploi, tant physiquement (pouvoir boire, manger, dormir à l'abri) que psychologiquement (pour se construire, avoir sa place dans la société).
+
+## Vendre sa force de travail sur un marché
+
+Comment se passe cette vente? Exactement comme pour n'importe quel autre produit, il existe un marché de l'emploi où chacun affiche ses caractéristiques et son prix, afin qu'un employeur puisse acheter la force de travail dont il a besoin (les fameux CV/lettre de motivation). Exactement comme si vous étiez au supermarché, en train de choisir des tomates: on en regarde l'aspect (est-ce que ce candidat présente bien), la provenance (les études et l'expérience) et finalement, le prix afin de choisir celles qui conviennent le mieux.
+
+On peut objecter que cela peut aussi fonctionner dans l'autre sens: un candidat choisit objectivement le poste qui lui convient. Étant donné que c'est un marché, il existe sûrement des types de candidats qui sont rares et pour qui, donc, cela fonctionne ainsi (j'en fais partie en tant que développeur). Mais je reste persuadé que cela reste aujourd'hui une minorité.
+
+Par ailleurs, la description que je viens de donner du marché du travail montre à quel point cela est inhumain, nous n'achetons certes pas des personnes, mais cela réduit les femmes/hommes à leur simple force de travail. Cela conduit à des choses comme l'**employabilité** : être un produit qui s'adapte en fonction du marché, donc un produit qui veut satisfaire les besoins de ceux qui achètent: les employeurs.
+
+Le marché est également tel qu'il existe du chômage. Cela, de mon point de vue, augmente la pression sur les produits car il y a peu d'achats, et donc il faut être celui qui sera acheté, au risque de se retrouver hors de la société. Ce chômage a plusieurs effets pervers : 
+
+* Concurrence plus forte entre les membres de la société. Atomisation de la société, contribution à l'individualisme
+* Acceptation de n'importe quel emploi par les candidats (les règles d'allocation chômage étant de plus en plus dures)
+* Recul des conquis sociaux en entreprise, les employés acceptant plus de choses pour ne pas perdre leur emploi
+* Pression sur les gouvernements de la part de gros groupes, en pratiquant une sorte de **chantage à l'emploi** (Si vous baissez pas les charges, on délocalise)
+
+Ainsi donc, ce marché de l'emploi me semble intrinsèquement nocif, à cause de la nature même de l'emploi. Je reste convaincu qu'un marché des postes de travail est nécessaire pour la liberté de travail, mais il ne devrait pas conditionner la subsistance des travailleurs.
+
+## La place de l'employé dans l'entreprise
+
+La déclaration des droits de l'homme et du citoyen consacre la propriété des moyens de production. Au crépuscule de la monarchie, les révolutionnaires entendent mettre un terme au servage et à la domination aristocratique. Si cela partait d'une noble intention et a donc permis à la société d'évoluer, il reste que ce droit induit inévitablement que le propriétaire des moyens de production est seul décideur au sein de son entreprise.
+
+Et c'est du côté de la propriété que réside donc le pouvoir de décision qui peut alors être partagé sous une forme de co-propriété : associés ou actionnaires, ceux qui partagent le **capital** de l'entreprise. L'usage des moyens de production ne donne aucun droit, pas plus le fait d'être employé. Les employés sont les **ressources humaines** de l'entreprise, au même titre que les machines et meubles achetés ou loués, ils sont nécessaires, mais n'ont pas de pouvoir de décision, ils sont réduits à leur capacité à faire ce qui leur est demandé (un peu comme des enfants).
+
+L'entreprise est conçue comme l'armée, il y a son chef qui, avec ses conseillers prend toutes les décisions, et les employés, qui sont là pour exécuter ces décisions, au travers d'une **hiérarchie managériale**. De même que dans l'armée, nous sommes subordonnés à notre employeur/général, et tout manquement à notre devoir peut justifier un licenciement.
+
+Cette organisation prive donc l'employé de son [pouvoir de décision]({{site.baseurl}}{% link _posts/2018-05-04-pouvoir-dachat.markdown %}), car non seulement subordonné à sa hiérarchie, il risque également le licenciement s'il fait trop de zèle. Dans ce cadre, on comprend mieux l'importance des **syndicats** de salariés, ainsi que des **comités d'entreprise** (qui sont bien plus que des réservoirs de réductions pour nos loisirs), seuls capables d'imposer un contre-pouvoir au sein de l'entreprise qui n'est pas organisée démocratiquement.
+
+En conclusion, je pense que l'emploi, défini par son marché et la subordination à l'employeur est une structure anti-démocratique qui ne permet pas une pleine liberté de travailler pour tous, et qui n'assure pas non plus la subsistance de chacun. Cela étant dit, il est difficile de penser une alternative hors emploi (et donc hors capitalisme) car nous baignons dedans. Quelques alternatives se présentent telles que le revenu universel ou le [salaire à vie](https://www.reseau-salariat.info).
