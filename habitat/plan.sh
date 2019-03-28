@@ -17,7 +17,6 @@ pkg_version() {
 }
 
 do_before() {
-  do_default_before
   update_pkg_version
 
   gem install jekyll redcarpet
