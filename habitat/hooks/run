@@ -1,0 +1,6 @@
+#!/bin/sh
+
+exec 2>1&
+
+cd {{pkg.path}}
+exec python -m http.server {{cfg.server_port}} --bind {{cfg.bind_ip}}
