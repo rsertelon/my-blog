@@ -3,7 +3,7 @@ pkg_origin=rsertelon
 pkg_maintainer="Romain Sertelon <romain@sertelon.fr>"
 pkg_license=('CC-BY-SA-4.0')
 pkg_deps=(
-  core/python
+  rsertelon/thttpd
 )
 pkg_build_deps=(
   core/coreutils
@@ -27,6 +27,5 @@ do_build() {
 }
 
 do_install() {
-  # done during build
-  return 0
+  chmod -x "${pkg_prefix}/css/main.css"
 }

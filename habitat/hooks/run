@@ -2,5 +2,4 @@
 
 exec 2>1&
 
-cd {{pkg.path}}
-exec python -m http.server {{cfg.server_port}} --bind {{cfg.bind_ip}}
+exec thttpd -D -p {{cfg.server_port}} -d {{pkg.path}}
