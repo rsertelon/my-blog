@@ -1,5 +1,5 @@
 name: Blog de Romain Sertelon
-markdown: redcarpet
 permalink: /:title.html
 encoding: UTF-8
 show_drafts: true
+
