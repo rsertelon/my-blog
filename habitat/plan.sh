@@ -19,7 +19,7 @@ pkg_version() {
 do_before() {
   update_pkg_version
 
-  gem install jekyll redcarpet
+  gem install jekyll:3.8.6 redcarpet -N
 }
 
 do_build() {
