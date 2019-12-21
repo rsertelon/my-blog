@@ -2,4 +2,4 @@
 
 exec 2>1&
 
-exec thttpd -D -p {{cfg.server_port}} -d {{pkg.path}}
+exec thttpd -D -h {{cfg.bind_ip}} -p {{cfg.server_port}} -d {{pkg.path}}
