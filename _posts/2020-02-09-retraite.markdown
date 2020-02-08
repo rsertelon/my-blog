@@ -1,0 +1,139 @@
+---
+layout: post
+title:  "Retraite"
+---
+
+_Action de se retirer de la vie active, d'abandonner ses fonctions ; état de quelqu'un qui a cessé ses activités professionnelles. &mdash; [Larousse](https://www.larousse.fr/dictionnaires/francais/retraite/68933)_
+
+Le [5 décembre]({{site.baseurl}}{% link _posts/2019-12-05-5-decembre.markdown %}), j'ai rejoint beaucoup de Français dans les rues pour manifester mon refus de la réforme présentée à la fin de l'été 2019. Mais pourquoi ? Le sujet a été longtemps flou pour beaucoup, et plus le temps passe, plus cela devient clair. Au-delà des intérêts individuels ([montant de pension](https://reformedesretraites.fr/dossier/), [durée de travail](https://www.liberation.fr/france/2020/01/17/retraites-l-age-pivot-atteindra-t-il-68-ans-en-2080_1773715)), il me semble que le changement proposé est bien plus important et dangereux pour notre modèle social.
+
+Afin de mieux comprendre, nous devons regarder une période bien plus grande que les quelques dernières années. Car l'Histoire permet de comprendre l'évolution des conditions sociales en France. Mes chiffres et dates ne seront pas parfaits, mais donnent une idée proche de la réalité. Je vous renvoie aux références en fin d'article pour en savoir plus.
+
+# Capitalisme et mouvements ouvriers
+
+Depuis la révolution française, la propriété privée est consacrée dans notre constitution (en particulier dans [la déclaration des droits de l'Homme et du citoyen](https://www.legifrance.gouv.fr/Droit-francais/Constitution/Declaration-des-Droits-de-l-Homme-et-du-Citoyen-de-1789)). Cette propriété privée peut être séparée en deux volets (d'après [l'analyse de Karl Marx](https://www.placedeslibraires.fr/livre/9782070355747-le-capital-livre-1-karl-marx/)) :
+
+* **La propriété d'usage**, qui concerne par exemple le droit d'être possesseur d'une voiture et de l'utiliser comme bon nous semble. Le droit de dire "c'est à moi" en somme ;
+* **La propriété lucrative**, qui concerne le patrimoine qui fournit une rémunération. C'est par exemple le fait de posséder une entreprise (actionnariat), et de tirer un revenu de la valeur qu'elle crée grâce à ces employés.
+
+Si la première semble naturelle, et pourquoi pas souhaitable ; la seconde induit un rapport de domination, d'exploitation même, entre celui qui possède les moyens de production (exploitant), et celui qui en a besoin pour obtenir un salaire (exploité). Pendant la révolution industrielle, le capitalisme a fait vivre aux ouvriers des conditions de travail très mauvaises, ou chaque jour les ouvriers ne savaient pas s'ils pourraient travailler le lendemain et mourraient nombreux.
+
+Après de nombreuses luttes des ouvriers, plusieurs droits ont été conquis. :
+
+* **1841** : interdiction du travail des enfants de moins de 8 ans et premières inspections ;
+* **1853** : [pension de retraite par répartition pour les fonctionnaires](https://www.senat.fr/evenement/archives/D32/1853.html) ;
+* **1884** : légalisation des syndicats professionnels ;
+* **1919** : journée de 8 heures ;
+* **1930** : assurances sociales obligatoires : cotisation vieillesse sur compte individuel ;
+* **1932** : allocations familiales ;
+* **1936** : congés payés, semaine de 40 heures, conventions collectives
+* **1940** : suppression des syndicats
+* **1941** : gel des comptes épargne de retraite. Affectation des cotisations en répartition ;
+* **1945-47** : 
+  * création de la sécurité sociale. Financement par répartition et cotisations sociales, dont le fonctionnement est assuré par les ouvriers ;
+  * création des conventions collectives, rétablissement des syndicats ;
+* **1968** : accords de Grenelle (augmentation de 35 % du SMIG, création de la section syndicale en entreprise)
+
+Ce sont des dates choisies pour montrer que ce que nous avons aujourd'hui est le fruit d'une longue évolution qui s'est faite grâce aux conquêtes de nombreux mouvements ouvriers.
+
+# La Sécurité Sociale
+
+Notre modèle social a été instauré après-guerre, entre 1945 et 1947. En effet, dans le [programme du Conseil National de la Résistance](https://fr.wikisource.org/wiki/Programme_du_Conseil_national_de_la_R%C3%A9sistance), il est stipulé entre autres :
+
+```
+ […]
+  un rajustement important des salaires et la garantie d’un niveau de 
+  salaire et de traitement qui assure à chaque travailleur et à sa
+  famille la sécurité, la dignité et la possibilité d’une vie pleinement
+  humaine ;
+ […]
+  un plan complet de sécurité sociale, visant à assurer à tous les
+  citoyens des moyens d’existence, dans tous les cas où ils sont
+  incapables de se le procurer par le travail, avec gestion appartenant
+  aux représentants des intéressés et de l’État ;
+ […]
+  une retraite permettant aux vieux travailleurs de finir dignement leurs
+  jours ;
+ […]
+```
+
+Afin de mettre en place cette sécurité sociale, l'ordonnance du 4 octobre 1945 est éditée. C'est dans une majorité fragile, fruit d'un rapport de force exceptionnel, qu'[Ambroise Croizat](https://fr.wikipedia.org/wiki/Ambroise_Croizat), Ministre du Travail communiste, ouvrier et secrétaire de la CGT Métallurgie rédige les lois qui créeront la Sécurité Sociale. Cela avec l'aide de [Pierre Laroque](https://fr.wikipedia.org/wiki/Pierre_Laroque), haut fonctionnaire et allié important dans ce grand moment.
+
+C'est en moins de deux ans que les caisses retraite, maladie et allocations familiales seront créées par les adhérents de la CGT. Le projet tel que mené par Croizat et Laroque est fou, au regard des évolutions proposées depuis par les divers gouvernements qui lui ont succédé.
+
+# Une exécution anti-capitaliste et révolutionnaire
+
+Bien que le [CNR](https://fr.wikipedia.org/wiki/Conseil_national_de_la_R%C3%A9sistance) fut un organisme contenant de nombreux courants politiques (l'heure était à la résistance face à un ennemi commun), le fait que ce fut un Ministre communiste qui fut l'instigateur politique de la Sécurité Sociale lui donna une couleur particulière.
+
+En effet, ce n'est pas le système par répartition qui est particulier à notre Sécurité Sociale, mais la façon de concevoir les pensions. Dans le cadre de 1946, il s'agit d'accorder un salaire continué aux retraités, et dans la même logique de considérer que les allocations familiales sont un salaire pour les parents.
+
+En ce qui concerne les pensions de retraite, leur montant était calculé en prenant en compte les 10 meilleurs années de salaire du futur retraité. Les annuités ne servaient qu'à ouvrir les droits à la pension de retraite.
+
+Pour les allocations familiales, elles ont été augmentées de manière significatives, et leur montant correspondait à un nombre d'heures d'ouvrier spécialisé dans la métallurgie, donc un salaire.
+
+Cette façon de définir les pensions et allocations est définitivement anticapitaliste, car elle reconnait comme salariées des personnes qui ne sont pas employées. Il ne s'agit pas de charité aux parents pour compenser les coûts induits par l'éducation de leurs enfants, ou de charité envers nos anciens qui seraient trop vieux pour travailler.
+
+Enfin, il faut noter que les caisses qui gèrent l'argent des cotisations de la Sécurité Sociale étaient au départ auto-gérées par les ouvriers (et ça marchait très bien). Par ailleurs, les cotisations sociales ne font pas partie du budget de l'État, afin de les protéger de la tentation de les réduire en cas de disette budgétaire de ce dernier.
+
+# La contre-révolution capitaliste
+
+Depuis les années 80, et l'avènement de ce qu'on appèlera le néo-libéralisme (Thatcher, Reagan) s'opère un retour au capitalisme d'antant, d'avant les conquêtes ouvrières.
+
+La Sécurité Sociale n'a pas échapé aux diverses "réformes", avec par exemple une construction politique des divers déficits qu'elle a pu connaitre. Tout le monde a entendu parler du "trou de la sécu"…
+
+Pour rendre un organisme déficitaire, on peut soit augmenter ses dépenses, soit en réduire les recettes. Ces deux options ont été employée contre la Sécurité Sociale.
+
+En effet, le taux des cotisations sociales — en augmentation régulière depuis les années 50 pour subvenir aux besoins de la Sécurité Sociale — est gelé pour une dizaine d'années, alors qu'année après année, les besoins augmentent car la population vieillit (retraites, maladie) et augmente (allocations, maladie). Ce gel, bien que temporaire a cassé la dynamique de financement de la Sécurité Sociale par les cotisations.
+
+En parallèle, la [CSG](https://fr.wikipedia.org/wiki/Contribution_sociale_g%C3%A9n%C3%A9ralis%C3%A9e) — taxe votée sous la "gauche" de Rocard en 1983 — rend le budget de la Sécurité Sociale dépendant de celui de l'État. Et on invente également un organisme responsable de financer la Sécurité Sociale — la [CADES](https://www.cades.fr) — qui va emprunter sur les marchés financiers. Ces deux mesures ont fragilisé la mécanique très simple des cotisations sociales, dépendant uniquement de la valeur produite, pour la soumettre aux aléas des marchés.
+
+# Le projet de la réforme des retraites
+
+Ainsi, après lecture des paragraphes précédents, on comprendra plus précisément que l'enjeu de la réforme proposée est extrêment important, et s'insère dans un mouvement plus large de destruction de notre Sécurité Sociale.
+
+La système par point, transforme les salaires versés aux retraités en récompense individuelle. Dorénavant, si je cotise, j'ai droit. Il n'y a plus de reconnaissance comme "producteur de valeur" des retraités.
+
+En plus de ce changement majeur dans la définition des pensions, la méthode de cotisation et de calcul de ces dernières finira de transformer la retraite en charité donnée aux vieillards.
+
+Trois points sont à prendre en compte :
+
+* Passage à un système à cotisations définies
+
+    C'est le fameux système à points. On parle de [cotisations définies en opposition au système actuel dit à prestations définies](https://www.lemonde.fr/idees/article/2020/02/01/retraites-la-reforme-transforme-les-pensions-en-variable-d-ajustement-des-finances-publiques_6028043_3232.html).
+
+    Dans le premier cas, on définit le nombre de points que l'on cotise, et au moment de la liquidation de la pension (passage à la retraite), on convertit ces points en fonction de la valeur du point.
+
+    Dans le second cas (l'actuel), on définit le taux de remplacement des retraités, et au moment de la liquidation de la pension, on vérifie juste que l'ouverture aux droits est aquise.
+
+* Plafonnement de la part de la production dédiée aux retraites
+
+    La réforme prévoit un [plafonnement des dépenses de retraite à 14% du PIB](https://www.marianne.net/economie/les-retraites-ne-doivent-pas-depasser-14-du-pib-ce-chiffre-qu-nous-rabache-abusivement) de la France.
+
+    On comprend facilement que les dépenses seront donc maintenant fonction de la croissance de l'économie. Cela peut sembler être une bonne idée, mais… Comment faire si la démographie de notre pays fait que le nombre de pensions à verser augmente plus rapidement que le PIB ? Que faire en cas de récession ?
+
+* Contraintes sur le déficit du système
+
+    Le déficit ne sera plus autorisé au-delà de 5 années consécutives. Aujourd'hui, le système peut être déficitaire plus longtemps, car il existe des provisions qui sont réservées à ce genre de cas. Ces déficits ne sont pas graves, car ils sont temporaires. Cela est dû à l'évolution de la démographie (nombre de décès, nombre de nouveaux retraités).
+
+    Par ailleurs, la réforme impose que les pensions ne baissent pas, ce qui est bien heureux. Malheureusement, pour équilibrer le budget avec ces contraintes, le risque est grand de voir l'âge de départ à la retraite à taux plein (sans "malus") reculer sans cesse…
+
+Avec toutes ces contraintes autour du budget du nouveau système par point, fortement lié aux marchés (croissance du PIB), et décorrélé de la démographie, cette nouvelle retraite par points s'annonce catastrophique dans le long terme.
+
+Pour simplifier cet article déjà long, je n'ai pas non plus parlé d'autres effet dévastateurs auprès des populations précaires — il faudra maintenant compter sur une carrière complète, sans trous, au lieu des 25 meilleures années…
+
+# Conclusion
+
+On l'a vu rapidement, la question centrale de cette réforme des retraites est à mon avis d'en changer le sens même. Passer d'une nouvelle étape de la vie — non soumise à un travail subordonné, une fois qu'on a contribué à la production de biens et services comptabilisés dans le PIB — à une période d'inactivité où l'on bénéficiera de la charité, car on l'a mérité après avoir été usé par le travail…
+
+Cet article a pôur modeste ambition de donner une lecture de cette réforme sous un angle différent. Sortir des conceptions dominantes n'est jamais simple, l'exemple principal en est la définition du mot `retraite` donné en sous titre de l'article par le dictionnaire Larousse. Je la pense fausse, au regard de l'institution que nous avons encore — la Sécurité Sociale, héritière du mouvement ouvrier qui voulait donner un sens nouveau à nos vies que de mettre en valeur le capital de quelqu'un (fusse-t-il le sien).
+
+_De chacun selon ses moyens, à chacun selon ses besoins_
+
+# Références
+
+* [La Sociale, Gilles Perret](http://www.lasociale.fr/) — Documentaire sur la création de la Sécurité Sociale ;
+* [Conférence gesticulée de Franck Lepage et Gael Tanguy](https://www.youtube.com/watch?v=7Ajj3ui8l98) — Vidéo très instructive ;
+* [Réseau Salariat](https://www.reseau-salariat.info) — Association d'éducation populaire, pour un salaire à la qualification ;
+* [Le Salaire à Vie, Usul](https://www.youtube.com/watch?v=uhg0SUYOXjw) ;
+* [Émanciper le travail, Bernard Friot](https://www.placedeslibraires.fr/livre/9782843032578-emanciper-le-travail-bernard-friot/) ;
+* [Histoire du droit du travail](https://travail-emploi.gouv.fr/ministere/histoire-du-droit-du-travail/reperes-chronologiques/article/histoire-du-droit-du-travail-de-1841-a-nos-jours) — Site du ministère du travail.
