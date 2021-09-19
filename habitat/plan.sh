@@ -9,7 +9,7 @@ pkg_build_deps=(
   core/coreutils
   core/gcc
   core/make
-  core/ruby
+  core/ruby27
 )
 
 pkg_version() {
